@@ -1,0 +1,8 @@
+[submodule "project-1"]
+	path = project-1
+	url = https://github.com/sinhaanish/project1.git
+	branch = develop
+[submodule "project-2"]
+	path = project-2
+	url = https://github.com/sinhaanish/project2.git
+	branch = develop
